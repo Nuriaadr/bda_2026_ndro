@@ -1,4 +1,6 @@
-[Práctica 2](./pr0201/pr0201.md)
+[Práctica 1](./pr0201/pr0201.md)
+
+[Práctica 2](./pr0202/pr0202.md)
 
 [Enlace para volver](../index.md)
 
