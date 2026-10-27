@@ -1,3 +1,3 @@
 # Práctica 1
 
-[Enlace para volver](/ut01/index.md)
+[Enlace para volver](../index.md)
